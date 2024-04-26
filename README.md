@@ -1,4 +1,4 @@
-# NLP_Project_Group35
+# LLM-RGS
 # Saved Models Access
 
 Due to the large size of the saved models, they have been uploaded to Google Drive. Below are the links to access each of the models:
